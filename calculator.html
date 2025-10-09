@@ -36,42 +36,9 @@
       <button class="grid-item item23" onclick="append('.')">.</button>
       <button class="grid-item item24" onclick="calculate()">=</button>
        <button class="grid-item item25" type="button"
-        onclick="on()" value="reset">ON</button>
-    
+        onclick="on()" value="reset">ON</button>    
     </div>
-    <script>
-     
-      var display = document.getElementById("display");
-       var off=true;
-      function append(value)
-      {
-        if(off) return;
-        display.value += value
-      }    
-      function clearDisplay(){
-        display.value=" ";
-      }
-      function Off(){
-        off=true;
-        display.value = '';
-        display.removeAttribute('placeholder');
-      }
-      function on(){
-        off=false;
-        display.ON = 'ON';
-        //display.setAttribute('placeholder', 0)
-      }
-      function calculate()
-      {
-        try{
-          display.value=eval
-          (display.value);
-        }
-        catch
-        {
-          display.value='error';
-        }
-      }
-    </script>
+   <script src="calculator.js"></script>
   </body>
 </html>
+
