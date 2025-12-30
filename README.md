@@ -6,6 +6,7 @@ A simple web-based calculator built with **HTML, CSS, and JavaScript** — this 
 ## 🎥 Demo
 
 [Click here to watch the demo video](./calculator.mp4)
+<img width="538" height="620" alt="image" src="https://github.com/user-attachments/assets/1804ca34-1f5d-4efe-abe3-529840352c54" />
 
 ## 🧮 Overview
 
