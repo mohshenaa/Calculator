@@ -3,7 +3,9 @@ my first of making calculator by html, css and js
 
 A simple web-based calculator built with **HTML, CSS, and JavaScript** — this is my first custom calculator project designed to perform basic arithmetic operations and practice frontend development fundamentals. :contentReference[oaicite:0]{index=0}
 
+## 🎥 Demo
 
+[Click here to watch the demo video](./calculator.mp4)
 
 ## 🧮 Overview
 
